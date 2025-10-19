@@ -37,7 +37,8 @@ It allows users to explore job listings, apply for jobs, and post new opportunit
 ---
 
 ## 🖼️ Demo / Screenshots  
-> *(Add your own screenshots here)*  
+
+<img width="100%" height="100%" alt="Screenshot 2025-10-19 134310" src="https://github.com/user-attachments/assets/7486e163-7392-4cf5-ad3d-850f99b33a49" />
 
 
 
